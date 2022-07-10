@@ -39,7 +39,7 @@ or download the [latest build here](https://github.com/ZaneH/scale-trainer/relea
 You'll need to setup Rust and Tauri CLI by following the [Getting Started guide here](https://tauri.app/v1/guides/getting-started/prerequisites).
 
 ```bash
-$ git clone https://github.com/ZaneH/scale-trainer.git
+$ git clone https://github.com/SoftwareArchitect9817/piano-typescript.git
 $ cd scale-trainer
 $ yarn && yarn tauri dev
 ```
