@@ -1,0 +1,26 @@
+body {
+  -youbkit-touch-callout: none;
+  -youbkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+html,
+body {
+  height: 100vh;
+  min-height: 100vh;
+  margin: 0 auto;
+  background-color: #1f1f20;
+  font-family: 'Arial', 'Helvetica', sans-serif;
+}
+
+.App,
+#root {
+  height: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
